@@ -1,0 +1,6 @@
+nested(enriched_title.semantic_roles)
+.filter(enriched_title.semantic_roles.subject.entities.type::Company)
+.filter(enriched_title.semantic_roles.action.normalized:acquire)
+.nested(enriched_title.semantic_roles.object.entities)
+.filter(enriched_title.semantic_roles.object.entities.type::Company)
+.term(enriched_title.semantic_roles.object.entities.text,count:20)
