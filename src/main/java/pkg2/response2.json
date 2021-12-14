@@ -1,0 +1,42 @@
+{
+  "collections": [
+    {
+      "collection_id": "d26046c1-28d3-4088-9a6b-341caa8e6bb9",
+      "name": "経産省プレス",
+      "description": "",
+      "created": "2021-06-15T02:12:45.497Z",
+      "updated": "2021-06-15T02:17:02.999Z",
+      "status": "active",
+      "configuration_id": "13813c66-4e9f-4372-a11e-2f61d69330ca",
+      "language": "ja"
+    },
+    {
+      "collection_id": "c94e5603-06fa-40a6-95f8-6ec9d4b90906",
+      "name": "法規制Crawl",
+      "description": "",
+      "created": "2021-06-18T02:23:57.926Z",
+      "updated": "2021-06-18T02:24:24.663Z",
+      "status": "active",
+      "configuration_id": "8c640e0d-74de-4633-85fc-7f8ffa245bb6",
+      "language": "ja"
+    },
+    {
+      "collection_id": "caf1697a-5aca-44f5-849f-50e03463277e",
+      "name": "Saitama",
+      "created": "2021-10-30T17:10:19.479Z",
+      "updated": "2021-10-30T17:10:19.479Z",
+      "status": "active",
+      "configuration_id": "35067706-c57d-4237-9a36-533539b5f661",
+      "language": "ja"
+    },
+    {
+      "collection_id": "78f6e0f0-8d8d-46db-9101-8a4b6c02cd52",
+      "name": "Saitama_Stg",
+      "created": "2021-11-04T00:28:24.290Z",
+      "updated": "2021-11-04T00:28:24.290Z",
+      "status": "active",
+      "configuration_id": "e76847c2-7c92-4947-95f3-2e48f5bc1c86",
+      "language": "ja"
+    }
+  ]
+}

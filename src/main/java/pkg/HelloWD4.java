@@ -9,7 +9,7 @@ public class HelloWD4 {
 
 	public static void main(String[] args) throws Exception {
 
-		HelloWD0.loadEnv();
+		WDUtils.loadEnv("ibm-credentials.env");
 
 		IamAuthenticator authenticator = new IamAuthenticator(System.getProperty("DISCOVERY_APIKEY"));
 

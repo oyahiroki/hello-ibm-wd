@@ -1,0 +1,18 @@
+{
+  "environments": [
+    {
+      "environment_id": "system",
+      "name": "Watson System Environment",
+      "description": "Shared system data sources",
+      "read_only": true
+    },
+    {
+      "environment_id": "fc6aa9cd-e4a5-4856-82f7-24df189d8e03",
+      "name": "byod",
+      "description": "",
+      "created": "2021-12-14T12:01:54.586Z",
+      "updated": "2021-12-14T12:01:54.586Z",
+      "read_only": false
+    }
+  ]
+}

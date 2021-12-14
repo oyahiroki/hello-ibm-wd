@@ -1,0 +1,46 @@
+{
+  "collections": [
+    {
+      "collection_id": "news-es",
+      "name": "news-es",
+      "description": "Watson News pre-enriched collection of curated news sources v2 (Spanish)",
+      "status": "active",
+      "language": "es"
+    },
+    {
+      "collection_id": "news-ja",
+      "name": "news-ja",
+      "description": "Watson News pre-enriched collection of curated news sources v2 (Japanese)",
+      "status": "active",
+      "language": "ja"
+    },
+    {
+      "collection_id": "news-ko",
+      "name": "news-ko",
+      "description": "Watson News pre-enriched collection of curated news sources v2 (Korean)",
+      "status": "active",
+      "language": "ko"
+    },
+    {
+      "collection_id": "news-fr",
+      "name": "news-fr",
+      "description": "Watson News pre-enriched collection of curated news sources v2 (French)",
+      "status": "active",
+      "language": "fr"
+    },
+    {
+      "collection_id": "news-de",
+      "name": "news-de",
+      "description": "Watson News pre-enriched collection of curated news sources v2 (German)",
+      "status": "active",
+      "language": "de"
+    },
+    {
+      "collection_id": "news-en",
+      "name": "news-en",
+      "description": "Watson News pre-enriched collection of curated news sources v2 (English)",
+      "status": "active",
+      "language": "en"
+    }
+  ]
+}

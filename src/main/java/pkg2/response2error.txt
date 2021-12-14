@@ -1,0 +1,4 @@
+Exception in thread "main" com.ibm.cloud.sdk.core.service.exception.BadRequestException: Invalid environment id. Please check if the format is correct.
+	at com.ibm.cloud.sdk.core.service.BaseService.processServiceCall(BaseService.java:521)
+	at com.ibm.cloud.sdk.core.service.BaseService$IBMCloudSDKServiceCall.execute(BaseService.java:573)
+	at pkg2.HelloWD2.main(HelloWD2.java:23)

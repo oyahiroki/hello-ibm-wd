@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "project_id": "19a70800-1a8e-4aee-b264-c658988f39bf",
+      "name": "Sample Project",
+      "type": "document_retrieval",
+      "collection_count": 1
+    },
+    {
+      "project_id": "7b043ca3-7eab-46e4-8f17-ffb61c0f4d5e",
+      "name": "Oya_CM",
+      "type": "content_mining",
+      "collection_count": 1
+    },
+    {
+      "project_id": "8a618fda-b908-4d7a-a13e-7b783c304288",
+      "name": "HelloWDjaCM",
+      "type": "content_mining",
+      "collection_count": 1
+    }
+  ]
+}
