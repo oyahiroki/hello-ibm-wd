@@ -1,0 +1,211 @@
+{
+  "matching_results": 2,
+  "results": [
+    {
+      "id": "ee84af6c-a987-4075-b887-8cf3a507f57a",
+      "metadata": {
+        "author": "Hiroki Oya"
+      },
+      "result_metadata": {
+        "score": 3.7152054,
+        "confidence": 0.0
+      },
+      "date": "2021-11-01T09:00:00Z",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.967793,
+              "label": "positive"
+            },
+            "text": "今日",
+            "confidence": 0.971319,
+            "relevance": 0.978348,
+            "type": "Date"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.967793,
+            "label": "positive"
+          }
+        },
+        "semantic_roles": [],
+        "concepts": [
+          {
+            "text": "明日",
+            "relevance": 0.774779,
+            "dbpedia_resource": "http://ja.dbpedia.org/resource/明日"
+          },
+          {
+            "text": "昨日",
+            "relevance": 0.774779,
+            "dbpedia_resource": "http://ja.dbpedia.org/resource/昨日"
+          },
+          {
+            "text": "弥の明後日",
+            "relevance": 0.774779,
+            "dbpedia_resource": "http://ja.dbpedia.org/resource/弥の明後日"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.581787,
+            "label": "/society/dating"
+          },
+          {
+            "score": 0.54615,
+            "label": "/family and parenting/parenting teens"
+          },
+          {
+            "score": 0.546032,
+            "label": "/shopping/gifts"
+          }
+        ],
+        "relations": [],
+        "keywords": [
+          {
+            "text": "今日",
+            "relevance": 0.725093,
+            "count": 1
+          },
+          {
+            "text": "天気",
+            "relevance": 0.274907,
+            "count": 1
+          }
+        ]
+      },
+      "highlight": {
+        "enriched_text.keywords.text": [
+          "<em>天気</em>"
+        ],
+        "text": [
+          "今日はとても<em>いい</em><em>天気</em>です。"
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "3416deb17a759bce01ec3db99811643347d65535",
+        "filename": "test1639557637813.json",
+        "file_type": "json"
+      },
+      "text": "今日はとてもいい天気です。",
+      "lang": "ja"
+    },
+    {
+      "id": "382975f7-07c3-46ad-8daf-1e8a91398597",
+      "metadata": {
+        "author": "Hiroki Oya"
+      },
+      "result_metadata": {
+        "score": 3.7152054,
+        "confidence": 0.0
+      },
+      "date": "2021-11-01T09:00:00Z",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.967793,
+              "label": "positive"
+            },
+            "text": "今日",
+            "confidence": 0.971319,
+            "relevance": 0.978348,
+            "type": "Date"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.967793,
+            "label": "positive"
+          }
+        },
+        "semantic_roles": [],
+        "concepts": [
+          {
+            "text": "明日",
+            "relevance": 0.774779,
+            "dbpedia_resource": "http://ja.dbpedia.org/resource/明日"
+          },
+          {
+            "text": "昨日",
+            "relevance": 0.774779,
+            "dbpedia_resource": "http://ja.dbpedia.org/resource/昨日"
+          },
+          {
+            "text": "弥の明後日",
+            "relevance": 0.774779,
+            "dbpedia_resource": "http://ja.dbpedia.org/resource/弥の明後日"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.581787,
+            "label": "/society/dating"
+          },
+          {
+            "score": 0.54615,
+            "label": "/family and parenting/parenting teens"
+          },
+          {
+            "score": 0.546032,
+            "label": "/shopping/gifts"
+          }
+        ],
+        "relations": [],
+        "keywords": [
+          {
+            "text": "今日",
+            "relevance": 0.725093,
+            "count": 1
+          },
+          {
+            "text": "天気",
+            "relevance": 0.274907,
+            "count": 1
+          }
+        ]
+      },
+      "highlight": {
+        "enriched_text.keywords.text": [
+          "<em>天気</em>"
+        ],
+        "text": [
+          "今日はとても<em>いい</em><em>天気</em>です。"
+        ]
+      },
+      "extracted_metadata": {
+        "sha1": "3416deb17a759bce01ec3db99811643347d65535",
+        "filename": "test1639558308672.json",
+        "file_type": "json"
+      },
+      "text": "今日はとてもいい天気です。",
+      "lang": "ja"
+    }
+  ],
+  "passages": [
+    {
+      "document_id": "382975f7-07c3-46ad-8daf-1e8a91398597",
+      "passage_score": 0.0,
+      "passage_text": "天気",
+      "start_offset": 0,
+      "end_offset": 2,
+      "field": "enriched_text.keywords.text"
+    },
+    {
+      "document_id": "ee84af6c-a987-4075-b887-8cf3a507f57a",
+      "passage_score": 0.0,
+      "passage_text": "天気",
+      "start_offset": 0,
+      "end_offset": 2,
+      "field": "enriched_text.keywords.text"
+    }
+  ],
+  "session_token": "1_pIaDCr78Dh78r6a21vQ8PUtSOd",
+  "retrieval_details": {
+    "document_retrieval_strategy": "untrained"
+  }
+}

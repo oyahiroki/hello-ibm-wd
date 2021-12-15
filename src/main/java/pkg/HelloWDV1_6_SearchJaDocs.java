@@ -6,7 +6,7 @@ import com.ibm.watson.discovery.v1.model.ListCollectionsResponse;
 import com.ibm.watson.discovery.v1.model.QueryOptions;
 import com.ibm.watson.discovery.v1.model.QueryResponse;
 
-public class HelloWD6_SearchJaDocs {
+public class HelloWDV1_6_SearchJaDocs {
 
 	public static void main(String[] args) throws Exception {
 
@@ -21,7 +21,7 @@ public class HelloWD6_SearchJaDocs {
 		String collectionId = "1c661dc1-69c1-49f2-8784-3c569b897eff";
 
 		QueryOptions.Builder queryBuilder = new QueryOptions.Builder(environmentId, collectionId);
-		queryBuilder.query("text:テスト") //
+		queryBuilder.query("text:いい天気") //
 				.count(10).highlight(true).passagesFields("enriched_text.keywords.text,author");
 		QueryResponse queryResponse = discovery.query(queryBuilder.build()).execute().getResult();
 

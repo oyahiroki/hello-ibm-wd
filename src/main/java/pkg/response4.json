@@ -1,0 +1,3762 @@
+{
+  "matching_results": 102280,
+  "results": [
+    {
+      "id": "wsTz9lcqLSpbnzAPHl1QuXh4KH1H2Jgmpz6Ujfb2ml-twL-FlmWRP_qju19ToClf",
+      "result_metadata": {
+        "score": 18.262676
+      },
+      "country": "SE",
+      "extracted_metadata": {
+        "sha1": "01aa24872e1d58926ff2c1440a66e8880dfd29b1",
+        "filename": "1637658281542.zip-89e2dc23e79ec192400c1fc1bcb02022.xml",
+        "file_type": "json"
+      },
+      "author": "admin",
+      "crawl_date": "2021-11-23T09:04:41Z",
+      "source_type": "mainstream",
+      "language": "en",
+      "forum_title": "allcom.se",
+      "title": "Bitcoin Mining Company Griid Secures $525 Million Credit Facility From Blockchain.com",
+      "url": "https://allcom.se/2021/11/23/bitcoin-mining-company-griid-secures-525-million-credit-facility-from-blockchain-com/",
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Bitcoin Mining Infrastructure Firm",
+            "relevance": 0.895393,
+            "type": "Company"
+          },
+          {
+            "count": 10,
+            "sentiment": {
+              "score": 0.282172,
+              "label": "positive"
+            },
+            "text": "partner",
+            "relevance": 0.712144,
+            "type": "JobTitle"
+          },
+          {
+            "count": 2,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Griid Infrastructure",
+            "relevance": 0.653118,
+            "type": "Company"
+          },
+          {
+            "count": 8,
+            "sentiment": {
+              "score": 0.132632,
+              "label": "positive"
+            },
+            "text": "Griid",
+            "relevance": 0.56803,
+            "type": "Person"
+          },
+          {
+            "count": 2,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "BTC",
+            "relevance": 0.430429,
+            "type": "Company"
+          },
+          {
+            "count": 3,
+            "sentiment": {
+              "score": 0.47323,
+              "label": "positive"
+            },
+            "text": "CEO",
+            "relevance": 0.424871,
+            "type": "JobTitle"
+          },
+          {
+            "count": 2,
+            "sentiment": {
+              "score": -0.271986,
+              "label": "negative"
+            },
+            "text": "CFO",
+            "relevance": 0.321498,
+            "type": "JobTitle"
+          },
+          {
+            "count": 2,
+            "sentiment": {
+              "score": 0.47323,
+              "label": "positive"
+            },
+            "text": "Peter Smith",
+            "relevance": 0.30549,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Macrina Kgil",
+            "relevance": 0.305449,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Bitmain",
+            "relevance": 0.29685,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "City"
+              ]
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "United States",
+            "relevance": 0.295655,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "Region",
+                "AdministrativeDivision",
+                "GovernmentalJurisdiction",
+                "FilmEditor",
+                "Country"
+              ],
+              "name": "United States",
+              "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Artificial Intelligence Exchange",
+            "relevance": 0.290395,
+            "type": "Company"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0.314637,
+              "label": "positive"
+            },
+            "text": "Trey Kelly",
+            "relevance": 0.281476,
+            "type": "Person"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Microbt",
+            "relevance": 0.269949,
+            "type": "Location",
+            "disambiguation": {
+              "subtype": [
+                "City"
+              ]
+            }
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "ETH",
+            "relevance": 0.257653,
+            "type": "Company"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "founder",
+            "relevance": 0.239845,
+            "type": "JobTitle"
+          },
+          {
+            "count": 3,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "$525 million",
+            "relevance": 0.239845,
+            "type": "Quantity"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "1,300 megawatts",
+            "relevance": 0.239845,
+            "type": "Quantity"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "$300 million",
+            "relevance": 0.239845,
+            "type": "Quantity"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "$5.2 billion",
+            "relevance": 0.239845,
+            "type": "Quantity"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "18 months",
+            "relevance": 0.239845,
+            "type": "Quantity"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "four-year",
+            "relevance": 0.239845,
+            "type": "Quantity"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "two years",
+            "relevance": 0.239845,
+            "type": "Quantity"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0.540817,
+            "label": "positive"
+          }
+        },
+        "semantic_roles": [
+          {
+            "subject": {
+              "text": "the mining firm Griid Infrastructure",
+              "keywords": [
+                {
+                  "text": "firm Griid Infrastructure"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "Griid Infrastructure"
+                }
+              ]
+            },
+            "sentence": "On Monday, the mining firm Griid Infrastructure announced the company has secured a $525 million credit facility from the crypto firm Blockchain.com.",
+            "object": {
+              "text": "the company has secured a $525 million credit facility from the crypto firm Blockchain.com",
+              "keywords": [
+                {
+                  "text": "credit facility"
+                },
+                {
+                  "text": "firm Blockchain.com"
+                },
+                {
+                  "text": "company"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Quantity",
+                  "text": "$525 million"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "announce",
+                "tense": "past"
+              },
+              "text": "announced",
+              "normalized": "announce"
+            }
+          },
+          {
+            "subject": {
+              "text": "secured a $525 million credit facility from the crypto firm Blockchain.com",
+              "keywords": [
+                {
+                  "text": "credit facility"
+                },
+                {
+                  "text": "firm Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Quantity",
+                  "text": "$525 million"
+                }
+              ]
+            },
+            "sentence": "On Monday, the mining firm Griid Infrastructure announced the company has secured a $525 million credit facility from the crypto firm Blockchain.com.",
+            "action": {
+              "verb": {
+                "text": "have",
+                "tense": "present"
+              },
+              "text": "has",
+              "normalized": "have"
+            }
+          },
+          {
+            "subject": {
+              "text": "the credit facility",
+              "keywords": [
+                {
+                  "text": "credit facility"
+                }
+              ]
+            },
+            "sentence": " According to the announcement, the credit facility will be a four-year term in order to increase the company’s mining capacity.",
+            "object": {
+              "text": "a four-year term",
+              "keywords": [
+                {
+                  "text": "four-year term"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Quantity",
+                  "text": "four-year"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "be",
+                "tense": "future"
+              },
+              "text": "will be",
+              "normalized": "will be"
+            }
+          },
+          {
+            "subject": {
+              "text": "the credit facility",
+              "keywords": [
+                {
+                  "text": "credit facility"
+                }
+              ]
+            },
+            "sentence": " According to the announcement, the credit facility will be a four-year term in order to increase the company’s mining capacity.",
+            "object": {
+              "text": "the company’s mining capacity",
+              "keywords": [
+                {
+                  "text": "capacity"
+                },
+                {
+                  "text": "company"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "increase",
+                "tense": "future"
+              },
+              "text": "to increase",
+              "normalized": "to increase"
+            }
+          },
+          {
+            "subject": {
+              "text": "the company",
+              "keywords": [
+                {
+                  "text": "company"
+                }
+              ]
+            },
+            "sentence": " According to the announcement, the credit facility will be a four-year term in order to increase the company’s mining capacity.",
+            "object": {
+              "text": "mining capacity",
+              "keywords": [
+                {
+                  "text": "mining capacity"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "has",
+                "tense": "present"
+              },
+              "text": "has",
+              "normalized": "has"
+            }
+          },
+          {
+            "subject": {
+              "text": "Bitcoin",
+              "keywords": [
+                {
+                  "text": "Bitcoin"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "Bitcoin Mining Infrastructure Firm"
+                }
+              ]
+            },
+            "sentence": " Bitcoin Mining Infrastructure Firm to Increase Capacity With Help From Blockchain.com",
+            "object": {
+              "text": "Infrastructure Firm",
+              "keywords": [
+                {
+                  "text": "Infrastructure Firm"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "Mining",
+                "tense": "present"
+              },
+              "text": "Mining",
+              "normalized": "Mining"
+            }
+          },
+          {
+            "subject": {
+              "text": "Bitcoin Mining Infrastructure Firm",
+              "keywords": [
+                {
+                  "text": "Infrastructure Firm"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "Bitcoin Mining Infrastructure Firm"
+                }
+              ]
+            },
+            "sentence": " Bitcoin Mining Infrastructure Firm to Increase Capacity With Help From Blockchain.com",
+            "object": {
+              "text": "Capacity",
+              "keywords": [
+                {
+                  "text": "Capacity"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "Increase",
+                "tense": "future"
+              },
+              "text": "to Increase",
+              "normalized": "to Increase"
+            }
+          },
+          {
+            "subject": {
+              "text": "Cryptocurrency mining, and more specifically bitcoin ( BTC ) mining,",
+              "keywords": [
+                {
+                  "text": "BTC"
+                },
+                {
+                  "text": "Cryptocurrency mining"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "BTC"
+                }
+              ]
+            },
+            "sentence": " Cryptocurrency mining, and more specifically bitcoin ( BTC ) mining, has seen millions of dollars invested during the course of the year.",
+            "object": {
+              "text": "seen millions of dollars invested during the course of the year",
+              "keywords": [
+                {
+                  "text": "dollars"
+                },
+                {
+                  "text": "millions"
+                },
+                {
+                  "text": "course"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "have",
+                "tense": "present"
+              },
+              "text": "has",
+              "normalized": "have"
+            }
+          },
+          {
+            "subject": {
+              "text": "Cryptocurrency mining, and more specifically bitcoin ( BTC ) mining,",
+              "keywords": [
+                {
+                  "text": "BTC"
+                },
+                {
+                  "text": "Cryptocurrency mining"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "BTC"
+                }
+              ]
+            },
+            "sentence": " Cryptocurrency mining, and more specifically bitcoin ( BTC ) mining, has seen millions of dollars invested during the course of the year.",
+            "object": {
+              "text": "millions of dollars invested during the course of the year",
+              "keywords": [
+                {
+                  "text": "dollars"
+                },
+                {
+                  "text": "millions"
+                },
+                {
+                  "text": "course"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "see",
+                "tense": "past"
+              },
+              "text": "has seen",
+              "normalized": "have see"
+            }
+          },
+          {
+            "subject": {
+              "text": "dollars",
+              "keywords": [
+                {
+                  "text": "dollars"
+                }
+              ]
+            },
+            "sentence": " Cryptocurrency mining, and more specifically bitcoin ( BTC ) mining, has seen millions of dollars invested during the course of the year.",
+            "action": {
+              "verb": {
+                "text": "invest",
+                "tense": "past"
+              },
+              "text": "invested",
+              "normalized": "invest"
+            }
+          },
+          {
+            "subject": {
+              "text": "Enterprise operations",
+              "keywords": [
+                {
+                  "text": "Enterprise operations"
+                }
+              ]
+            },
+            "sentence": " Enterprise operations have inked massive deals with bitcoin mining rig manufacturers like Canaan, Bitmain, and Microbt for thousands of ASIC devices.",
+            "object": {
+              "text": "inked massive deals with bitcoin mining rig manufacturers like Canaan, Bitmain, and Microbt",
+              "keywords": [
+                {
+                  "text": "bitcoin mining rig"
+                },
+                {
+                  "text": "massive deals"
+                },
+                {
+                  "text": "Canaan"
+                },
+                {
+                  "text": "manufacturers"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Location",
+                  "text": "Bitmain",
+                  "disambiguation": {
+                    "subtype": [
+                      "City"
+                    ]
+                  }
+                },
+                {
+                  "type": "Location",
+                  "text": "Microbt",
+                  "disambiguation": {
+                    "subtype": [
+                      "City"
+                    ]
+                  }
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "have",
+                "tense": "present"
+              },
+              "text": "have",
+              "normalized": "have"
+            }
+          },
+          {
+            "subject": {
+              "text": "Enterprise operations",
+              "keywords": [
+                {
+                  "text": "Enterprise operations"
+                }
+              ]
+            },
+            "sentence": " Enterprise operations have inked massive deals with bitcoin mining rig manufacturers like Canaan, Bitmain, and Microbt for thousands of ASIC devices.",
+            "object": {
+              "text": "massive deals",
+              "keywords": [
+                {
+                  "text": "massive deals"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "ink",
+                "tense": "past"
+              },
+              "text": "have inked",
+              "normalized": "have ink"
+            }
+          },
+          {
+            "subject": {
+              "text": "A few large bitcoin mining operators",
+              "keywords": [
+                {
+                  "text": "bitcoin mining operators"
+                }
+              ]
+            },
+            "sentence": " A few large bitcoin mining operators have also begun constructing new facilities in order to increase capacity.",
+            "object": {
+              "text": "constructing new facilities in order to increase capacity",
+              "keywords": [
+                {
+                  "text": "new facilities"
+                },
+                {
+                  "text": "capacity"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "begin",
+                "tense": "past"
+              },
+              "text": "begun",
+              "normalized": "begin"
+            }
+          },
+          {
+            "subject": {
+              "text": "A few large bitcoin mining operators",
+              "keywords": [
+                {
+                  "text": "bitcoin mining operators"
+                }
+              ]
+            },
+            "sentence": " A few large bitcoin mining operators have also begun constructing new facilities in order to increase capacity.",
+            "object": {
+              "text": "new facilities",
+              "keywords": [
+                {
+                  "text": "new facilities"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "construct",
+                "tense": "present"
+              },
+              "text": "have also begun constructing",
+              "normalized": "have also begin construct"
+            }
+          },
+          {
+            "subject": {
+              "text": "A few large bitcoin mining operators",
+              "keywords": [
+                {
+                  "text": "bitcoin mining operators"
+                }
+              ]
+            },
+            "sentence": " A few large bitcoin mining operators have also begun constructing new facilities in order to increase capacity.",
+            "object": {
+              "text": "capacity",
+              "keywords": [
+                {
+                  "text": "capacity"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "increase",
+                "tense": "future"
+              },
+              "text": "to increase",
+              "normalized": "to increase"
+            }
+          },
+          {
+            "subject": {
+              "text": "Griid Infrastructure",
+              "keywords": [
+                {
+                  "text": "Griid Infrastructure"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "Griid Infrastructure"
+                }
+              ]
+            },
+            "sentence": " On November 22, Griid Infrastructure announced the company has secured a $525 million credit facility from the company Blockchain.com .",
+            "object": {
+              "text": "the company has secured a $525 million credit facility from the company Blockchain.com",
+              "keywords": [
+                {
+                  "text": "credit facility"
+                },
+                {
+                  "text": "company"
+                },
+                {
+                  "text": "Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                },
+                {
+                  "type": "Quantity",
+                  "text": "$525 million"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "announce",
+                "tense": "past"
+              },
+              "text": "announced",
+              "normalized": "announce"
+            }
+          },
+          {
+            "subject": {
+              "text": "The financing",
+              "keywords": [
+                {
+                  "text": "financing"
+                }
+              ]
+            },
+            "sentence": " The financing will be used to increase mining capacity as well as “capitalizing on over 1,300 megawatts of available power from existing energy generation partners.” According to the announcement, Blockchain.com’s Institutional Markets team has crafted some of the largest credit facilities in the market.",
+            "object": {
+              "text": "to increase mining capacity",
+              "keywords": [
+                {
+                  "text": "mining capacity"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "use",
+                "tense": "future"
+              },
+              "text": "will be used",
+              "normalized": "will be use"
+            }
+          },
+          {
+            "subject": {
+              "text": "The financing",
+              "keywords": [
+                {
+                  "text": "financing"
+                }
+              ]
+            },
+            "sentence": " The financing will be used to increase mining capacity as well as “capitalizing on over 1,300 megawatts of available power from existing energy generation partners.” According to the announcement, Blockchain.com’s Institutional Markets team has crafted some of the largest credit facilities in the market.",
+            "object": {
+              "text": "mining capacity",
+              "keywords": [
+                {
+                  "text": "mining capacity"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "increase",
+                "tense": "future"
+              },
+              "text": "to increase",
+              "normalized": "to increase"
+            }
+          },
+          {
+            "subject": {
+              "text": "The financing",
+              "keywords": [
+                {
+                  "text": "financing"
+                }
+              ]
+            },
+            "sentence": " The financing will be used to increase mining capacity as well as “capitalizing on over 1,300 megawatts of available power from existing energy generation partners.” According to the announcement, Blockchain.com’s Institutional Markets team has crafted some of the largest credit facilities in the market.",
+            "object": {
+              "text": "on over 1,300 megawatts of available power from existing energy generation",
+              "keywords": [
+                {
+                  "text": "megawatts"
+                },
+                {
+                  "text": "available power"
+                },
+                {
+                  "text": "energy generation"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Quantity",
+                  "text": "1,300 megawatts"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "capitalize",
+                "tense": "present"
+              },
+              "text": "capitalizing",
+              "normalized": "capitalize"
+            }
+          },
+          {
+            "subject": {
+              "text": "Blockchain.com’s Institutional Markets team",
+              "keywords": [
+                {
+                  "text": "Institutional Markets team"
+                },
+                {
+                  "text": "Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "sentence": " The financing will be used to increase mining capacity as well as “capitalizing on over 1,300 megawatts of available power from existing energy generation partners.” According to the announcement, Blockchain.com’s Institutional Markets team has crafted some of the largest credit facilities in the market.",
+            "object": {
+              "text": "crafted some of the largest credit facilities in the market",
+              "keywords": [
+                {
+                  "text": "largest credit facilities"
+                },
+                {
+                  "text": "market"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "have",
+                "tense": "present"
+              },
+              "text": "has",
+              "normalized": "have"
+            }
+          },
+          {
+            "subject": {
+              "text": "Blockchain.com’s Institutional Markets team",
+              "keywords": [
+                {
+                  "text": "Institutional Markets team"
+                },
+                {
+                  "text": "Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "sentence": " The financing will be used to increase mining capacity as well as “capitalizing on over 1,300 megawatts of available power from existing energy generation partners.” According to the announcement, Blockchain.com’s Institutional Markets team has crafted some of the largest credit facilities in the market.",
+            "object": {
+              "text": "some of the largest credit facilities",
+              "keywords": [
+                {
+                  "text": "largest credit facilities"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "craft",
+                "tense": "past"
+              },
+              "text": "has crafted",
+              "normalized": "have craft"
+            }
+          },
+          {
+            "subject": {
+              "text": "Blockchain.com",
+              "keywords": [
+                {
+                  "text": "Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "sentence": " “Blockchain.com is an established leader in the digital asset space with unique knowledge into every aspect of the crypto ecosystem, including mining operations,” Trey Kelly, Griid’s CEO and founder explained in a statement.",
+            "object": {
+              "text": "an established leader in the digital asset space",
+              "keywords": [
+                {
+                  "text": "digital asset space"
+                },
+                {
+                  "text": "leader"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "be",
+                "tense": "present"
+              },
+              "text": "is",
+              "normalized": "be"
+            }
+          },
+          {
+            "subject": {
+              "text": "leader",
+              "keywords": [
+                {
+                  "text": "leader"
+                }
+              ]
+            },
+            "sentence": " “Blockchain.com is an established leader in the digital asset space with unique knowledge into every aspect of the crypto ecosystem, including mining operations,” Trey Kelly, Griid’s CEO and founder explained in a statement.",
+            "action": {
+              "verb": {
+                "text": "establish",
+                "tense": "past"
+              },
+              "text": "established",
+              "normalized": "establish"
+            }
+          },
+          {
+            "subject": {
+              "text": "mining operations",
+              "keywords": [
+                {
+                  "text": "mining operations"
+                }
+              ]
+            },
+            "sentence": " “Blockchain.com is an established leader in the digital asset space with unique knowledge into every aspect of the crypto ecosystem, including mining operations,” Trey Kelly, Griid’s CEO and founder explained in a statement.",
+            "object": {
+              "text": "the crypto ecosystem",
+              "keywords": [
+                {
+                  "text": "crypto ecosystem"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "include",
+                "tense": "present"
+              },
+              "text": "including",
+              "normalized": "include"
+            }
+          },
+          {
+            "subject": {
+              "text": "Trey Kelly, Griid’s CEO and founder",
+              "keywords": [
+                {
+                  "text": "Trey Kelly"
+                },
+                {
+                  "text": "CEO"
+                },
+                {
+                  "text": "Griid"
+                },
+                {
+                  "text": "founder"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Trey Kelly"
+                },
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                },
+                {
+                  "type": "JobTitle",
+                  "text": "CEO"
+                },
+                {
+                  "type": "JobTitle",
+                  "text": "founder"
+                }
+              ]
+            },
+            "sentence": " “Blockchain.com is an established leader in the digital asset space with unique knowledge into every aspect of the crypto ecosystem, including mining operations,” Trey Kelly, Griid’s CEO and founder explained in a statement.",
+            "object": {
+              "text": "Blockchain.com is an established leader in the digital asset space with unique knowledge into every aspect of the crypto ecosystem, including mining operations",
+              "keywords": [
+                {
+                  "text": "crypto ecosystem"
+                },
+                {
+                  "text": "digital asset space"
+                },
+                {
+                  "text": "unique knowledge"
+                },
+                {
+                  "text": "mining operations"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                },
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "explain",
+                "tense": "past"
+              },
+              "text": "explained",
+              "normalized": "explain"
+            }
+          },
+          {
+            "subject": {
+              "text": "Blockchain.com",
+              "keywords": [
+                {
+                  "text": "Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "sentence": " “Blockchain.com is an ideal capital partner as we strengthen our infrastructure and operations across our growing portfolio of bitcoin mining facilities,” the mining company’s CEO added.",
+            "object": {
+              "text": "an ideal capital partner",
+              "keywords": [
+                {
+                  "text": "ideal capital partner"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "be",
+                "tense": "present"
+              },
+              "text": "is",
+              "normalized": "be"
+            }
+          },
+          {
+            "subject": {
+              "text": "we"
+            },
+            "sentence": " “Blockchain.com is an ideal capital partner as we strengthen our infrastructure and operations across our growing portfolio of bitcoin mining facilities,” the mining company’s CEO added.",
+            "object": {
+              "text": "our infrastructure and operations across our growing portfolio of bitcoin mining facilities",
+              "keywords": [
+                {
+                  "text": "bitcoin mining facilities"
+                },
+                {
+                  "text": "infrastructure"
+                },
+                {
+                  "text": "operations"
+                },
+                {
+                  "text": "portfolio"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "strengthen",
+                "tense": "present"
+              },
+              "text": "strengthen",
+              "normalized": "strengthen"
+            }
+          },
+          {
+            "subject": {
+              "text": "the mining company’s CEO",
+              "keywords": [
+                {
+                  "text": "CEO"
+                },
+                {
+                  "text": "mining company"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "CEO"
+                }
+              ]
+            },
+            "sentence": " “Blockchain.com is an ideal capital partner as we strengthen our infrastructure and operations across our growing portfolio of bitcoin mining facilities,” the mining company’s CEO added.",
+            "object": {
+              "text": "Blockchain.com is an ideal capital partner as we strengthen our infrastructure and operations across our growing portfolio of bitcoin mining facilities",
+              "keywords": [
+                {
+                  "text": "ideal capital partner"
+                },
+                {
+                  "text": "bitcoin mining facilities"
+                },
+                {
+                  "text": "infrastructure"
+                },
+                {
+                  "text": "Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                },
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "add",
+                "tense": "past"
+              },
+              "text": "added",
+              "normalized": "add"
+            }
+          },
+          {
+            "subject": {
+              "text": "Griid",
+              "keywords": [
+                {
+                  "text": "Griid"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                }
+              ]
+            },
+            "sentence": " Griid is an American crypto mining infrastructure company that calls itself a “vertically-integrated bitcoin self-mining company.” The firm operates a portfolio of bitcoin mining data centers across the United States.",
+            "object": {
+              "text": "an American crypto mining infrastructure company that calls itself a “vertically-integrated bitcoin self-mining company.” The firm operates a portfolio of bitcoin mining data centers across the United States",
+              "keywords": [
+                {
+                  "text": "crypto mining infrastructure"
+                },
+                {
+                  "text": "vertically-integrated bitcoin self-mining"
+                },
+                {
+                  "text": "mining data centers"
+                },
+                {
+                  "text": "United States"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                },
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                },
+                {
+                  "type": "Location",
+                  "text": "United States",
+                  "disambiguation": {
+                    "subtype": [
+                      "Region",
+                      "AdministrativeDivision",
+                      "Country",
+                      "GovernmentalJurisdiction",
+                      "FilmEditor",
+                      "Country"
+                    ],
+                    "name": "United States",
+                    "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+                  }
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "be",
+                "tense": "present"
+              },
+              "text": "is",
+              "normalized": "be"
+            }
+          },
+          {
+            "subject": {
+              "text": "an American crypto mining infrastructure company",
+              "keywords": [
+                {
+                  "text": "crypto mining infrastructure"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                }
+              ]
+            },
+            "sentence": " Griid is an American crypto mining infrastructure company that calls itself a “vertically-integrated bitcoin self-mining company.” The firm operates a portfolio of bitcoin mining data centers across the United States.",
+            "object": {
+              "text": "itself",
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "call",
+                "tense": "present"
+              },
+              "text": "calls",
+              "normalized": "call"
+            }
+          },
+          {
+            "subject": {
+              "text": "Blockchain.com’s CEO Peter Smith",
+              "keywords": [
+                {
+                  "text": "CEO Peter Smith"
+                },
+                {
+                  "text": "Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                },
+                {
+                  "type": "JobTitle",
+                  "text": "CEO"
+                },
+                {
+                  "type": "Person",
+                  "text": "Peter Smith"
+                }
+              ]
+            },
+            "sentence": " Blockchain.com’s CEO Peter Smith explains that the company has worked with Griid for quite some time.",
+            "object": {
+              "text": "that the company has worked with Griid for quite some time",
+              "keywords": [
+                {
+                  "text": "company"
+                },
+                {
+                  "text": "Griid"
+                },
+                {
+                  "text": "time"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "explain",
+                "tense": "present"
+              },
+              "text": "explains",
+              "normalized": "explain"
+            }
+          },
+          {
+            "subject": {
+              "text": "we"
+            },
+            "sentence": " “For the past two years we’ve worked closely with Griid to not just provide capital, but to be a partner invested in the growth of the business,” Smith said during the announcement.",
+            "object": {
+              "text": "worked closely with Griid to not just provide capital",
+              "keywords": [
+                {
+                  "text": "Griid"
+                },
+                {
+                  "text": "capital"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "have",
+                "tense": "present"
+              },
+              "text": "have",
+              "normalized": "have"
+            }
+          },
+          {
+            "subject": {
+              "text": "we"
+            },
+            "sentence": " “For the past two years we’ve worked closely with Griid to not just provide capital, but to be a partner invested in the growth of the business,” Smith said during the announcement.",
+            "object": {
+              "text": "with Griid",
+              "keywords": [
+                {
+                  "text": "Griid"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "work",
+                "tense": "past"
+              },
+              "text": "ve worked",
+              "normalized": "ve work"
+            }
+          },
+          {
+            "subject": {
+              "text": "we"
+            },
+            "sentence": " “For the past two years we’ve worked closely with Griid to not just provide capital, but to be a partner invested in the growth of the business,” Smith said during the announcement.",
+            "object": {
+              "text": "capital",
+              "keywords": [
+                {
+                  "text": "capital"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "provide",
+                "tense": "present",
+                "negated": true
+              },
+              "text": "just provide",
+              "normalized": "just provide"
+            }
+          },
+          {
+            "subject": {
+              "text": "we"
+            },
+            "sentence": " “For the past two years we’ve worked closely with Griid to not just provide capital, but to be a partner invested in the growth of the business,” Smith said during the announcement.",
+            "object": {
+              "text": "a partner invested in the growth of the business",
+              "keywords": [
+                {
+                  "text": "partner"
+                },
+                {
+                  "text": "growth"
+                },
+                {
+                  "text": "business"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "be",
+                "tense": "future"
+              },
+              "text": "to be",
+              "normalized": "to be"
+            }
+          },
+          {
+            "subject": {
+              "text": "Smith",
+              "keywords": [
+                {
+                  "text": "Smith"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Peter Smith"
+                }
+              ]
+            },
+            "sentence": " “For the past two years we’ve worked closely with Griid to not just provide capital, but to be a partner invested in the growth of the business,” Smith said during the announcement.",
+            "object": {
+              "text": "For the past two years we’ve worked closely with Griid to not just provide capital, but to be a partner invested in the growth of the business",
+              "keywords": [
+                {
+                  "text": "partner"
+                },
+                {
+                  "text": "Griid"
+                },
+                {
+                  "text": "capital"
+                },
+                {
+                  "text": "growth"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                },
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                },
+                {
+                  "type": "Quantity",
+                  "text": "two years"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "say",
+                "tense": "past"
+              },
+              "text": "said",
+              "normalized": "say"
+            }
+          },
+          {
+            "subject": {
+              "text": "Blockchain.com",
+              "keywords": [
+                {
+                  "text": "Blockchain.com"
+                }
+              ]
+            },
+            "sentence": " Blockchain.com’s deal with Griid follows the company raising $300 million at the end of March, increasing its valuation to $5.2 billion.",
+            "object": {
+              "text": "with Griid",
+              "keywords": [
+                {
+                  "text": "Griid"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "deal",
+                "tense": "present"
+              },
+              "text": "deal",
+              "normalized": "deal"
+            }
+          },
+          {
+            "subject": {
+              "text": "the company",
+              "keywords": [
+                {
+                  "text": "company"
+                }
+              ]
+            },
+            "sentence": " Blockchain.com’s deal with Griid follows the company raising $300 million at the end of March, increasing its valuation to $5.2 billion.",
+            "object": {
+              "text": "$300 million",
+              "entities": [
+                {
+                  "type": "Quantity",
+                  "text": "$300 million"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "raise",
+                "tense": "present"
+              },
+              "text": "raising",
+              "normalized": "raise"
+            }
+          },
+          {
+            "subject": {
+              "text": "the crypto firm",
+              "keywords": [
+                {
+                  "text": "firm"
+                }
+              ]
+            },
+            "sentence": " In May, the crypto firm acquired an AI company called Artificial Intelligence Exchange and last August, Blockchain.com’s CFO hinted at the company going public in 18 months.",
+            "object": {
+              "text": "an AI company called Artificial Intelligence Exchange",
+              "keywords": [
+                {
+                  "text": "AI company"
+                },
+                {
+                  "text": "Artificial Intelligence Exchange"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "Artificial Intelligence Exchange"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "acquire",
+                "tense": "future"
+              },
+              "text": "acquired",
+              "normalized": "acquire"
+            }
+          },
+          {
+            "subject": {
+              "text": "the crypto firm acquired an AI company",
+              "keywords": [
+                {
+                  "text": "AI company"
+                }
+              ]
+            },
+            "sentence": " In May, the crypto firm acquired an AI company called Artificial Intelligence Exchange and last August, Blockchain.com’s CFO hinted at the company going public in 18 months.",
+            "object": {
+              "text": "Artificial Intelligence Exchange and last August",
+              "keywords": [
+                {
+                  "text": "Artificial Intelligence Exchange"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "Artificial Intelligence Exchange"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "call",
+                "tense": "past"
+              },
+              "text": "called",
+              "normalized": "call"
+            }
+          },
+          {
+            "subject": {
+              "text": "Blockchain.com’s CFO",
+              "keywords": [
+                {
+                  "text": "CFO"
+                },
+                {
+                  "text": "Blockchain.com"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "partner"
+                },
+                {
+                  "type": "JobTitle",
+                  "text": "CFO"
+                }
+              ]
+            },
+            "sentence": " In May, the crypto firm acquired an AI company called Artificial Intelligence Exchange and last August, Blockchain.com’s CFO hinted at the company going public in 18 months.",
+            "object": {
+              "text": "at the company going public in 18 months",
+              "keywords": [
+                {
+                  "text": "company"
+                },
+                {
+                  "text": "public"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Quantity",
+                  "text": "18 months"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "hint",
+                "tense": "past"
+              },
+              "text": "hinted",
+              "normalized": "hint"
+            }
+          },
+          {
+            "subject": {
+              "text": "Blockchain.com CFO Macrina Kgil",
+              "keywords": [
+                {
+                  "text": "Blockchain.com CFO Macrina"
+                },
+                {
+                  "text": "Kgil"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "JobTitle",
+                  "text": "CFO"
+                },
+                {
+                  "type": "Person",
+                  "text": "Macrina Kgil"
+                }
+              ]
+            },
+            "sentence": " Blockchain.com CFO Macrina Kgil also explained at the time that the company held BTC and ETH on its balance sheet.",
+            "object": {
+              "text": "that the company held BTC and ETH on its balance sheet",
+              "keywords": [
+                {
+                  "text": "balance sheet"
+                },
+                {
+                  "text": "BTC"
+                },
+                {
+                  "text": "ETH"
+                },
+                {
+                  "text": "company"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "BTC"
+                },
+                {
+                  "type": "Company",
+                  "text": "ETH"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "explain",
+                "tense": "past"
+              },
+              "text": "explained",
+              "normalized": "explain"
+            }
+          },
+          {
+            "subject": {
+              "text": "you"
+            },
+            "sentence": " What do you think about Griid securing a $525 million credit facility from the crypto firm Blockchain.com?",
+            "object": {
+              "text": "about Griid securing a $525 million credit facility from the crypto firm Blockchain.com",
+              "keywords": [
+                {
+                  "text": "credit facility"
+                },
+                {
+                  "text": "firm Blockchain.com"
+                },
+                {
+                  "text": "Griid"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Person",
+                  "text": "Griid"
+                },
+                {
+                  "type": "Quantity",
+                  "text": "$525 million"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "do",
+                "tense": "present"
+              },
+              "text": "do",
+              "normalized": "do"
+            }
+          },
+          {
+            "subject": {
+              "text": "us"
+            },
+            "sentence": " Let us know what you think about this subject in the comments section below.",
+            "object": {
+              "text": "what you think about this subject in the comments section below",
+              "keywords": [
+                {
+                  "text": "comments section"
+                },
+                {
+                  "text": "subject"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "know",
+                "tense": "present"
+              },
+              "text": "know",
+              "normalized": "know"
+            }
+          }
+        ],
+        "concepts": [
+          {
+            "text": "Artificial intelligence",
+            "relevance": 0.891716,
+            "dbpedia_resource": "http://dbpedia.org/resource/Artificial_intelligence"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.808908,
+            "label": "/finance/investing"
+          },
+          {
+            "score": 0.808908,
+            "label": "/finance/investing/beginning investing"
+          },
+          {
+            "score": 0.794893,
+            "label": "/finance/financial news"
+          }
+        ],
+        "relations": [
+          {
+            "type": "timeOf",
+            "sentence": "On Monday, the mining firm Griid Infrastructure announced the company has secured a $525 million credit facility from the crypto firm Blockchain.com.",
+            "score": 0.525104,
+            "arguments": [
+              {
+                "text": "Monday",
+                "location": [
+                  3,
+                  9
+                ],
+                "entities": [
+                  {
+                    "type": "Date",
+                    "text": "Monday"
+                  }
+                ]
+              },
+              {
+                "text": "announced",
+                "location": [
+                  48,
+                  57
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "locatedAt",
+            "sentence": "\"Blockchain.com is an ideal capital partner as we strengthen our infrastructure and operations across our growing portfolio of bitcoin mining facilities,\" the mining company's CEO added.",
+            "score": 0.681188,
+            "arguments": [
+              {
+                "text": "our",
+                "location": [
+                  1533,
+                  1536
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "our"
+                  }
+                ]
+              },
+              {
+                "text": "facilities",
+                "location": [
+                  1573,
+                  1583
+                ],
+                "entities": [
+                  {
+                    "type": "Facility",
+                    "text": "facilities"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "managerOf",
+            "sentence": "\"Blockchain.com is an ideal capital partner as we strengthen our infrastructure and operations across our growing portfolio of bitcoin mining facilities,\" the mining company's CEO added.",
+            "score": 0.494012,
+            "arguments": [
+              {
+                "text": "CEO",
+                "location": [
+                  1607,
+                  1610
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "Trey Kelly"
+                  }
+                ]
+              },
+              {
+                "text": "mining company",
+                "location": [
+                  1590,
+                  1604
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "\"Blockchain.com is an ideal capital partner as we strengthen our infrastructure and operations across our growing portfolio of bitcoin mining facilities,\" the mining company's CEO added.",
+            "score": 0.572428,
+            "arguments": [
+              {
+                "text": "mining company",
+                "location": [
+                  1590,
+                  1604
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "added",
+                "location": [
+                  1611,
+                  1616
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "Blockchain.com CFO Macrina Kgil also explained at the time that the company held BTC and ETH on its balance sheet.",
+            "score": 0.887658,
+            "arguments": [
+              {
+                "text": "Blockchain.com CFO Macrina Kgil",
+                "location": [
+                  2431,
+                  2462
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "explained",
+                "location": [
+                  2468,
+                  2477
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "\"Blockchain.com is an ideal capital partner as we strengthen our infrastructure and operations across our growing portfolio of bitcoin mining facilities,\" the mining company's CEO added.",
+            "score": 0.880081,
+            "arguments": [
+              {
+                "text": "CEO",
+                "location": [
+                  1607,
+                  1610
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "Trey Kelly"
+                  }
+                ]
+              },
+              {
+                "text": "added",
+                "location": [
+                  1611,
+                  1616
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "partOf",
+            "sentence": "Griid is an American crypto mining infrastructure company that calls itself a \"vertically-integrated bitcoin self-mining company.",
+            "score": 0.679667,
+            "arguments": [
+              {
+                "text": "mining company",
+                "location": [
+                  1732,
+                  1746
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "company",
+                "location": [
+                  1668,
+                  1675
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "ASIC"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "managerOf",
+            "sentence": "Blockchain.com's CEO Peter Smith explains that the company has worked with Griid for quite some time.",
+            "score": 0.495413,
+            "arguments": [
+              {
+                "text": "CEO",
+                "location": [
+                  1853,
+                  1856
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "Peter Smith"
+                  }
+                ]
+              },
+              {
+                "text": "Blockchain.com",
+                "location": [
+                  1836,
+                  1850
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "affectedBy",
+            "sentence": "Blockchain.com's CEO Peter Smith explains that the company has worked with Griid for quite some time.",
+            "score": 0.61372,
+            "arguments": [
+              {
+                "text": "company",
+                "location": [
+                  1887,
+                  1894
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "explains",
+                "location": [
+                  1869,
+                  1877
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "partOf",
+            "sentence": "Blockchain.com's CEO Peter Smith explains that the company has worked with Griid for quite some time.",
+            "score": 0.301384,
+            "arguments": [
+              {
+                "text": "company",
+                "location": [
+                  1887,
+                  1894
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "Griid",
+                "location": [
+                  1911,
+                  1916
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Griid Infrastructure",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "\"For the past two years we've worked closely with Griid to not just provide capital, but to be a partner invested in the growth of the business,\" Smith said during the announcement.",
+            "score": 0.99782,
+            "arguments": [
+              {
+                "text": "Smith",
+                "location": [
+                  2084,
+                  2089
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "Peter Smith"
+                  }
+                ]
+              },
+              {
+                "text": "said",
+                "location": [
+                  2090,
+                  2094
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "said"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "hasAttribute",
+            "sentence": "Blockchain.com's deal with Griid follows the company raising $300 million at the end of March, increasing its valuation to $5.2 billion.",
+            "score": 0.545739,
+            "arguments": [
+              {
+                "text": "Blockchain.com",
+                "location": [
+                  2120,
+                  2134
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "$300 million",
+                "location": [
+                  2181,
+                  2193
+                ],
+                "entities": [
+                  {
+                    "type": "Money",
+                    "text": "$300 million",
+                    "disambiguation": {
+                      "subtype": [
+                        "Gainloss"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "On Monday, the mining firm Griid Infrastructure announced the company has secured a $525 million credit facility from the crypto firm Blockchain.com.",
+            "score": 0.672372,
+            "arguments": [
+              {
+                "text": "mining firm",
+                "location": [
+                  15,
+                  26
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Griid Infrastructure",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "announced",
+                "location": [
+                  48,
+                  57
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "On Monday, the mining firm Griid Infrastructure announced the company has secured a $525 million credit facility from the crypto firm Blockchain.com.",
+            "score": 0.993644,
+            "arguments": [
+              {
+                "text": "Griid Infrastructure",
+                "location": [
+                  27,
+                  47
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Griid Infrastructure",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "announced",
+                "location": [
+                  48,
+                  57
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "On November 22, Griid Infrastructure announced the company has secured a $525 million credit facility from the company Blockchain.com .",
+            "score": 0.98655,
+            "arguments": [
+              {
+                "text": "Griid Infrastructure",
+                "location": [
+                  780,
+                  800
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Griid Infrastructure",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "announced",
+                "location": [
+                  801,
+                  810
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "hasAttribute",
+            "sentence": "Blockchain.com's deal with Griid follows the company raising $300 million at the end of March, increasing its valuation to $5.2 billion.",
+            "score": 0.872293,
+            "arguments": [
+              {
+                "text": "company",
+                "location": [
+                  2165,
+                  2172
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "ASIC"
+                  }
+                ]
+              },
+              {
+                "text": "$300 million",
+                "location": [
+                  2181,
+                  2193
+                ],
+                "entities": [
+                  {
+                    "type": "Money",
+                    "text": "$300 million",
+                    "disambiguation": {
+                      "subtype": [
+                        "Gainloss"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "timeOf",
+            "sentence": "In May, the crypto firm acquired an AI company called Artificial Intelligence Exchange and last August, Blockchain.com's CFO hinted at the company going public in 18 months.",
+            "score": 0.701923,
+            "arguments": [
+              {
+                "text": "May",
+                "location": [
+                  2260,
+                  2263
+                ],
+                "entities": [
+                  {
+                    "type": "Date",
+                    "text": "May"
+                  }
+                ]
+              },
+              {
+                "text": "acquired",
+                "location": [
+                  2281,
+                  2289
+                ],
+                "entities": [
+                  {
+                    "type": "EventBusiness",
+                    "text": "acquired"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "In May, the crypto firm acquired an AI company called Artificial Intelligence Exchange and last August, Blockchain.com's CFO hinted at the company going public in 18 months.",
+            "score": 0.889227,
+            "arguments": [
+              {
+                "text": "firm",
+                "location": [
+                  2276,
+                  2280
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Blockchain.com\nCryptocurrency mining",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "acquired",
+                "location": [
+                  2281,
+                  2289
+                ],
+                "entities": [
+                  {
+                    "type": "EventBusiness",
+                    "text": "acquired"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "affectedBy",
+            "sentence": "In May, the crypto firm acquired an AI company called Artificial Intelligence Exchange and last August, Blockchain.com's CFO hinted at the company going public in 18 months.",
+            "score": 0.829718,
+            "arguments": [
+              {
+                "text": "company",
+                "location": [
+                  2296,
+                  2303
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Artificial Intelligence Exchange"
+                  }
+                ]
+              },
+              {
+                "text": "acquired",
+                "location": [
+                  2281,
+                  2289
+                ],
+                "entities": [
+                  {
+                    "type": "EventBusiness",
+                    "text": "acquired"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "timeOf",
+            "sentence": "In May, the crypto firm acquired an AI company called Artificial Intelligence Exchange and last August, Blockchain.com's CFO hinted at the company going public in 18 months.",
+            "score": 0.811306,
+            "arguments": [
+              {
+                "text": "August",
+                "location": [
+                  2353,
+                  2359
+                ],
+                "entities": [
+                  {
+                    "type": "Date",
+                    "text": "August"
+                  }
+                ]
+              },
+              {
+                "text": "acquired",
+                "location": [
+                  2281,
+                  2289
+                ],
+                "entities": [
+                  {
+                    "type": "EventBusiness",
+                    "text": "acquired"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "hasAttribute",
+            "sentence": "What do you think about Griid securing a $525 million credit facility from the crypto firm Blockchain.com?",
+            "score": 0.659699,
+            "arguments": [
+              {
+                "text": "you",
+                "location": [
+                  2554,
+                  2557
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "you"
+                  }
+                ]
+              },
+              {
+                "text": "$525 million",
+                "location": [
+                  2587,
+                  2599
+                ],
+                "entities": [
+                  {
+                    "type": "Money",
+                    "text": "$525 million",
+                    "disambiguation": {
+                      "subtype": [
+                        "Gainloss"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "basedIn",
+            "sentence": "Enterprise operations have inked massive deals with bitcoin mining rig manufacturers like Canaan, Bitmain, and Microbt for thousands of ASIC devices.",
+            "score": 0.516491,
+            "arguments": [
+              {
+                "text": "manufacturers",
+                "location": [
+                  573,
+                  586
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "manufacturers",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "Canaan",
+                "location": [
+                  592,
+                  598
+                ],
+                "entities": [
+                  {
+                    "type": "GeopoliticalEntity",
+                    "text": "Canaan"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "locatedAt",
+            "sentence": "Enterprise operations have inked massive deals with bitcoin mining rig manufacturers like Canaan, Bitmain, and Microbt for thousands of ASIC devices.",
+            "score": 0.991607,
+            "arguments": [
+              {
+                "text": "Canaan",
+                "location": [
+                  592,
+                  598
+                ],
+                "entities": [
+                  {
+                    "type": "GeopoliticalEntity",
+                    "text": "Canaan"
+                  }
+                ]
+              },
+              {
+                "text": "Bitmain",
+                "location": [
+                  600,
+                  607
+                ],
+                "entities": [
+                  {
+                    "type": "GeopoliticalEntity",
+                    "text": "Bitmain"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "partOfMany",
+            "sentence": "A few large bitcoin mining operators have also begun constructing new facilities in order to increase capacity.",
+            "score": 0.708327,
+            "arguments": [
+              {
+                "text": "few",
+                "location": [
+                  654,
+                  657
+                ],
+                "entities": [
+                  {
+                    "type": "Cardinal",
+                    "text": "few"
+                  }
+                ]
+              },
+              {
+                "text": "operators",
+                "location": [
+                  679,
+                  688
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "operators"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "timeOf",
+            "sentence": "On November 22, Griid Infrastructure announced the company has secured a $525 million credit facility from the company Blockchain.com .",
+            "score": 0.679527,
+            "arguments": [
+              {
+                "text": "November 22",
+                "location": [
+                  767,
+                  778
+                ],
+                "entities": [
+                  {
+                    "type": "Date",
+                    "text": "November 22"
+                  }
+                ]
+              },
+              {
+                "text": "announced",
+                "location": [
+                  801,
+                  810
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "partOf",
+            "sentence": "On November 22, Griid Infrastructure announced the company has secured a $525 million credit facility from the company Blockchain.com .",
+            "score": 0.306285,
+            "arguments": [
+              {
+                "text": "company",
+                "location": [
+                  875,
+                  882
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "ASIC"
+                  }
+                ]
+              },
+              {
+                "text": "Blockchain.com",
+                "location": [
+                  883,
+                  897
+                ],
+                "entities": [
+                  {
+                    "type": "Web",
+                    "text": "Blockchain.com"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "employedBy",
+            "sentence": "\"Blockchain.com is an established leader in the digital asset space with unique knowledge into every aspect of the crypto ecosystem, including mining operations,\" Trey Kelly, Griid's CEO and founder explained in a statement.",
+            "score": 0.427587,
+            "arguments": [
+              {
+                "text": "CEO",
+                "location": [
+                  1389,
+                  1392
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "Trey Kelly"
+                  }
+                ]
+              },
+              {
+                "text": "Griid",
+                "location": [
+                  1381,
+                  1386
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Griid Infrastructure",
+                    "disambiguation": {
+                      "subtype": [
+                        "Commercial"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "\"Blockchain.com is an established leader in the digital asset space with unique knowledge into every aspect of the crypto ecosystem, including mining operations,\" Trey Kelly, Griid's CEO and founder explained in a statement.",
+            "score": 0.975535,
+            "arguments": [
+              {
+                "text": "founder",
+                "location": [
+                  1397,
+                  1404
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "Peter Smith"
+                  }
+                ]
+              },
+              {
+                "text": "explained",
+                "location": [
+                  1405,
+                  1414
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "agentOf",
+            "sentence": "Blockchain.com's CEO Peter Smith explains that the company has worked with Griid for quite some time.",
+            "score": 0.998269,
+            "arguments": [
+              {
+                "text": "Peter Smith",
+                "location": [
+                  1857,
+                  1868
+                ],
+                "entities": [
+                  {
+                    "type": "Person",
+                    "text": "Peter Smith"
+                  }
+                ]
+              },
+              {
+                "text": "explains",
+                "location": [
+                  1869,
+                  1877
+                ],
+                "entities": [
+                  {
+                    "type": "EventCommunication",
+                    "text": "announced"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "text": "mining firm Griid Infrastructure",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.788714,
+            "count": 1
+          },
+          {
+            "text": "Bitcoin Mining Infrastructure Firm",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.646921,
+            "count": 1
+          },
+          {
+            "text": "Blockchain.com’s Institutional Markets team",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.637176,
+            "count": 1
+          },
+          {
+            "text": "company’s mining capacity",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.622832,
+            "count": 1
+          },
+          {
+            "text": "crypto firm",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.611944,
+            "count": 3
+          },
+          {
+            "text": "established leader",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.602684,
+            "count": 1
+          },
+          {
+            "text": "Enterprise operations",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.601662,
+            "count": 1
+          },
+          {
+            "text": "credit facility",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.589256,
+            "count": 4
+          },
+          {
+            "text": "four-year term",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.585062,
+            "count": 1
+          },
+          {
+            "text": "mining operations",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.582032,
+            "count": 1
+          },
+          {
+            "text": "Artificial Intelligence Exchange",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.578184,
+            "count": 1
+          },
+          {
+            "text": "Increase Capacity",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.570843,
+            "count": 1
+          },
+          {
+            "text": "Griid Infrastructure",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.561625,
+            "count": 1
+          },
+          {
+            "text": "Blockchain.com’s CEO Peter Smith",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.561393,
+            "count": 1
+          },
+          {
+            "text": "ideal capital partner",
+            "sentiment": {
+              "score": 0.625991,
+              "label": "positive"
+            },
+            "relevance": 0.56022,
+            "count": 1
+          },
+          {
+            "text": "company",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.549163,
+            "count": 8
+          },
+          {
+            "text": "aspect of the crypto ecosystem",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.547667,
+            "count": 1
+          },
+          {
+            "text": "digital asset space",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.54663,
+            "count": 1
+          },
+          {
+            "text": "Griid’s CEO",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.541482,
+            "count": 1
+          },
+          {
+            "text": "bitcoin mining rig manufacturers",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.540891,
+            "count": 1
+          },
+          {
+            "text": "energy generation partners",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.539075,
+            "count": 1
+          },
+          {
+            "text": "Cryptocurrency mining",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.535689,
+            "count": 1
+          },
+          {
+            "text": "American crypto mining infrastructure company",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.534883,
+            "count": 1
+          },
+          {
+            "text": "last August",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.533606,
+            "count": 1
+          },
+          {
+            "text": "massive deals",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.532126,
+            "count": 1
+          },
+          {
+            "text": "data centers",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.531039,
+            "count": 1
+          },
+          {
+            "text": "portfolio of bitcoin mining facilities",
+            "sentiment": {
+              "score": 0.625991,
+              "label": "positive"
+            },
+            "relevance": 0.527711,
+            "count": 1
+          },
+          {
+            "text": "United States",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.521126,
+            "count": 1
+          },
+          {
+            "text": "balance sheet",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.521126,
+            "count": 1
+          },
+          {
+            "text": "Blockchain.com’s CFO",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.520335,
+            "count": 1
+          },
+          {
+            "text": "bitcoin",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.520311,
+            "count": 1
+          },
+          {
+            "text": "unique knowledge",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.519736,
+            "count": 1
+          },
+          {
+            "text": "large bitcoin",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.517697,
+            "count": 1
+          },
+          {
+            "text": "announcement",
+            "sentiment": {
+              "score": -0.287357,
+              "label": "negative"
+            },
+            "relevance": 0.517584,
+            "count": 3
+          },
+          {
+            "text": "infrastructure",
+            "sentiment": {
+              "score": 0.625991,
+              "label": "positive"
+            },
+            "relevance": 0.51743,
+            "count": 1
+          },
+          {
+            "text": "Blockchain.com’s deal",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.513603,
+            "count": 1
+          },
+          {
+            "text": "mining",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.51273,
+            "count": 1
+          },
+          {
+            "text": "financing",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.511444,
+            "count": 1
+          },
+          {
+            "text": "BTC",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.510716,
+            "count": 2
+          },
+          {
+            "text": "firm",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.510407,
+            "count": 1
+          },
+          {
+            "text": "Blockchain.com CFO Macrina Kgil",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.509926,
+            "count": 1
+          },
+          {
+            "text": "operations",
+            "sentiment": {
+              "score": 0.625991,
+              "label": "positive"
+            },
+            "relevance": 0.509475,
+            "count": 1
+          },
+          {
+            "text": "capital",
+            "sentiment": {
+              "score": -0.287357,
+              "label": "negative"
+            },
+            "relevance": 0.509154,
+            "count": 1
+          },
+          {
+            "text": "megawatts of available power",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.509109,
+            "count": 1
+          },
+          {
+            "text": "November",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.508661,
+            "count": 1
+          },
+          {
+            "text": "mining company’s CEO",
+            "sentiment": {
+              "score": 0.625991,
+              "label": "positive"
+            },
+            "relevance": 0.507435,
+            "count": 1
+          },
+          {
+            "text": "order",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.507216,
+            "count": 2
+          },
+          {
+            "text": "operators",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.507187,
+            "count": 1
+          },
+          {
+            "text": "Canaan",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.506478,
+            "count": 1
+          },
+          {
+            "text": "dollars",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.506301,
+            "count": 1
+          }
+        ]
+      },
+      "highlight": {
+        "enriched_text.semantic_roles.object.text": [
+          "<em>Artificial</em> <em>Intelligence</em> Exchange and last August",
+          "an AI company called <em>Artificial</em> <em>Intelligence</em> Exchange"
+        ],
+        "enriched_text.semantic_roles.object.entities.text": [
+          "<em>Artificial</em> <em>Intelligence</em> Exchange"
+        ],
+        "enriched_text.relations.arguments.entities.text": [
+          "<em>Artificial</em> <em>Intelligence</em> Exchange"
+        ],
+        "enriched_text.concepts.text": [
+          "<em>Artificial</em> <em>intelligence</em>"
+        ],
+        "enriched_text.relations.sentence": [
+          "In May, the crypto firm acquired an AI company called <em>Artificial</em> <em>Intelligence</em> Exchange and last August, Blockchain.com's CFO hinted at the company going public in 18 months."
+        ],
+        "enriched_text.semantic_roles.object.keywords.text": [
+          "<em>Artificial</em> <em>Intelligence</em> Exchange"
+        ],
+        "text": [
+          "In May, the crypto firm acquired an AI company called <em>Artificial</em> <em>Intelligence</em> Exchange and last August, Blockchain.com’s CFO hinted at the company going public in 18 months. Blockchain.com CFO Macrina Kgil also explained at the time that the company held BTC and ETH on its balance sheet. What do you"
+        ],
+        "enriched_text.keywords.text": [
+          "<em>Artificial</em> <em>Intelligence</em> Exchange"
+        ],
+        "enriched_text.entities.text": [
+          "<em>Artificial</em> <em>Intelligence</em> Exchange"
+        ],
+        "enriched_text.semantic_roles.sentence": [
+          "In May, the crypto firm acquired an AI company called <em>Artificial</em> <em>Intelligence</em> Exchange and last August, Blockchain.com’s CFO hinted at the company going public in 18 months."
+        ]
+      },
+      "external_links": [
+        "https://www.blockchain.com/",
+        "https://markets.bitcoin.com/crypto/BTC",
+        "https://news.bitcoin.com/blockchain-com-cfo-says-company-could-ipo-in-18-months-firms-balance-sheet-holds-btc-eth/",
+        "https://www.griid.com/",
+        "https://businesscloud.co.uk/news/crypto-exchange-blockchain-com-swoops-for-ai-firm/",
+        "https://news.bitcoin.com/blockchain-com-raises-300-million-firms-post-money-valuation-now-5-2-billion/",
+        "https://markets.bitcoin.com/crypto/ETH"
+      ],
+      "host": "allcom.se",
+      "publication_date": "2021-11-23T07:59:00+01:00",
+      "text": "In May, the crypto firm acquired an AI company called Artificial Intelligence Exchange and last August, Blockchain.com’s CFO hinted at the company going public in 18 months. Blockchain.com CFO Macrina Kgil also explained at the time that the company held BTC and ETH on its balance sheet. What do you",
+      "enriched_title": {
+        "entities": [
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "Bitcoin Mining Company Griid",
+            "relevance": 0.33,
+            "type": "Company"
+          },
+          {
+            "count": 1,
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "text": "$525 Million",
+            "relevance": 0.33,
+            "type": "Quantity"
+          }
+        ],
+        "sentiment": {
+          "document": {
+            "score": 0,
+            "label": "neutral"
+          }
+        },
+        "semantic_roles": [
+          {
+            "subject": {
+              "text": "Bitcoin Mining Company",
+              "keywords": [
+                {
+                  "text": "Mining Company"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Company",
+                  "text": "Bitcoin Mining Company Griid"
+                }
+              ]
+            },
+            "sentence": "Bitcoin Mining Company Griid Secures $525 Million Credit Facility From Blockchain.com",
+            "object": {
+              "text": "Secures $525 Million Credit Facility",
+              "keywords": [
+                {
+                  "text": "Secures"
+                },
+                {
+                  "text": "Credit Facility"
+                }
+              ],
+              "entities": [
+                {
+                  "type": "Quantity",
+                  "text": "$525 Million"
+                }
+              ]
+            },
+            "action": {
+              "verb": {
+                "text": "Griid",
+                "tense": "past"
+              },
+              "text": "Griid",
+              "normalized": "Griid"
+            }
+          }
+        ],
+        "concepts": [
+          {
+            "text": "Credit",
+            "relevance": 0.9044,
+            "dbpedia_resource": "http://dbpedia.org/resource/Credit"
+          }
+        ],
+        "categories": [
+          {
+            "score": 0.719829,
+            "label": "/finance/bank"
+          },
+          {
+            "score": 0.651534,
+            "label": "/finance/investing/funds"
+          },
+          {
+            "score": 0.64053,
+            "label": "/finance/financial news"
+          }
+        ],
+        "relations": [
+          {
+            "type": "locatedAt",
+            "sentence": "Bitcoin Mining Company Griid Secures $525 Million Credit Facility From Blockchain.com",
+            "score": 0.340682,
+            "arguments": [
+              {
+                "text": "Bitcoin Mining Company",
+                "location": [
+                  0,
+                  22
+                ],
+                "entities": [
+                  {
+                    "type": "Organization",
+                    "text": "Bitcoin Mining Company"
+                  }
+                ]
+              },
+              {
+                "text": "Facility",
+                "location": [
+                  57,
+                  65
+                ],
+                "entities": [
+                  {
+                    "type": "Facility",
+                    "text": "Facility"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "text": "Bitcoin Mining Company Griid",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.992417,
+            "count": 1
+          },
+          {
+            "text": "Credit Facility",
+            "sentiment": {
+              "score": 0,
+              "label": "neutral"
+            },
+            "relevance": 0.007583,
+            "count": 1
+          }
+        ]
+      }
+    }
+  ],
+  "aggregations": [
+    {
+      "path": "enriched_title.semantic_roles",
+      "type": "nested",
+      "matching_results": 68141,
+      "aggregations": [
+        {
+          "match": "enriched_title.semantic_roles.subject.entities.type::Company",
+          "type": "filter",
+          "matching_results": 14050,
+          "aggregations": [
+            {
+              "match": "enriched_title.semantic_roles.action.normalized:acquire",
+              "type": "filter",
+              "matching_results": 350,
+              "aggregations": [
+                {
+                  "path": "enriched_title.semantic_roles.object.entities",
+                  "type": "nested",
+                  "matching_results": 217,
+                  "aggregations": [
+                    {
+                      "match": "enriched_title.semantic_roles.object.entities.type::Company",
+                      "type": "filter",
+                      "matching_results": 166,
+                      "aggregations": [
+                        {
+                          "field": "enriched_title.semantic_roles.object.entities.text",
+                          "count": 20,
+                          "type": "term",
+                          "results": [
+                            {
+                              "key": "AI",
+                              "matching_results": 17
+                            },
+                            {
+                              "key": "Dangot Computers",
+                              "matching_results": 8
+                            },
+                            {
+                              "key": "Cardiologs",
+                              "matching_results": 7
+                            },
+                            {
+                              "key": "KGS Microsystems LLP",
+                              "matching_results": 7
+                            },
+                            {
+                              "key": "Kaiser Haus",
+                              "matching_results": 7
+                            },
+                            {
+                              "key": "SiaSearch",
+                              "matching_results": 7
+                            },
+                            {
+                              "key": "ThirdEye",
+                              "matching_results": 7
+                            },
+                            {
+                              "key": "VoiceBase",
+                              "matching_results": 7
+                            },
+                            {
+                              "key": "Lyngo Analytics",
+                              "matching_results": 6
+                            },
+                            {
+                              "key": "Tesla",
+                              "matching_results": 6
+                            },
+                            {
+                              "key": "Arrowhead Systems",
+                              "matching_results": 5
+                            },
+                            {
+                              "key": "Lodestone",
+                              "matching_results": 5
+                            },
+                            {
+                              "key": "AI company",
+                              "matching_results": 4
+                            },
+                            {
+                              "key": "Appsumer",
+                              "matching_results": 4
+                            },
+                            {
+                              "key": "Bryght AI",
+                              "matching_results": 4
+                            },
+                            {
+                              "key": "Colossal Media",
+                              "matching_results": 4
+                            },
+                            {
+                              "key": "DriverCheck",
+                              "matching_results": 3
+                            },
+                            {
+                              "key": "VisionLabs",
+                              "matching_results": 3
+                            },
+                            {
+                              "key": "Abveris",
+                              "matching_results": 2
+                            },
+                            {
+                              "key": "BRIDGEi2i",
+                              "matching_results": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "passages": []
+}

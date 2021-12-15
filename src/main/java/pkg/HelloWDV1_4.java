@@ -5,8 +5,11 @@ import com.ibm.watson.discovery.v1.Discovery;
 import com.ibm.watson.discovery.v1.model.QueryOptions;
 import com.ibm.watson.discovery.v1.model.QueryResponse;
 
-public class HelloWD4 {
+public class HelloWDV1_4 {
 
+	/**
+	 * V1 Complex Query Documents
+	 */
 	public static void main(String[] args) throws Exception {
 
 		WDUtils.loadEnv("ibm-credentials.env");
