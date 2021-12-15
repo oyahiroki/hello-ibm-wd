@@ -47,15 +47,17 @@ public class HelloWD_V2_3_AddADocument {
 
 		String projectId = "7b043ca3-7eab-46e4-8f17-ffb61c0f4d5e";
 		String collectionId = "742f7980-b185-75d3-0000-017db207a8eb";
-		
+		String DISCOVERY_APIKEY = System.getProperty("DISCOVERY_APIKEY");
+		String DISCOVERY_URL = System.getProperty("DISCOVERY_URL");
+
 		collectionId = "c2fb58fb-b107-bfc0-0000-017db995672e";
-		
+
 		String fileName = "hello" + System.currentTimeMillis() + ".json";
 
 		{
-			IamAuthenticator authenticator = new IamAuthenticator(System.getProperty("DISCOVERY_APIKEY"));
+			IamAuthenticator authenticator = new IamAuthenticator(DISCOVERY_APIKEY);
 			Discovery v2Discovery = new Discovery("2020-08-30", authenticator);
-			v2Discovery.setServiceUrl(System.getProperty("DISCOVERY_URL"));
+			v2Discovery.setServiceUrl(DISCOVERY_URL);
 			AddDocumentOptions options = new AddDocumentOptions.Builder() //
 					.projectId(projectId) //
 					.collectionId(collectionId) //
