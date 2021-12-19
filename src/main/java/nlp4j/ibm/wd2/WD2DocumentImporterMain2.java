@@ -31,9 +31,9 @@ public class WD2DocumentImporterMain2 {
 				d.putAttribute("retweet_count", doc.getAttribute("retweet_count"));
 				docs.add(d);
 				count++;
-				if (count >= 300) {
-					break;
-				}
+//				if (count >= 300) {
+//					break;
+//				}
 			}
 		}
 
