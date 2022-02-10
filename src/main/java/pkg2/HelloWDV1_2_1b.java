@@ -7,7 +7,7 @@ import com.ibm.watson.discovery.v2.Discovery;
 
 import pkg.WDUtils;
 
-public class HelloWD2_1b {
+public class HelloWDV1_2_1b {
 
 	public static void main(String[] args) throws Exception {
 

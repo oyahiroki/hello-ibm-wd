@@ -1,13 +1,12 @@
 package pkg2;
 
 import com.ibm.cloud.sdk.core.security.IamAuthenticator;
-import com.ibm.watson.discovery.v1.model.ListEnvironmentsOptions;
-import com.ibm.watson.discovery.v1.model.ListEnvironmentsResponse;
-import com.ibm.watson.discovery.v2.Discovery;
+import com.ibm.watson.discovery.v1.model.ListCollectionsOptions;
+import com.ibm.watson.discovery.v1.model.ListCollectionsResponse;
 
 import pkg.WDUtils;
 
-public class HelloWD2_1 {
+public class HelloWDV1_2_2 {
 
 	public static void main(String[] args) throws Exception {
 
@@ -18,10 +17,13 @@ public class HelloWD2_1 {
 				authenticator);
 		discovery.setServiceUrl(System.getProperty("DISCOVERY_URL"));
 
-		ListEnvironmentsOptions options = new ListEnvironmentsOptions.Builder().build();
-		ListEnvironmentsResponse listResponse = discovery.listEnvironments(options).execute().getResult();
+		String environmentId = "a4ee60a8-2a7b-4e35-a5b3-7c7b0d86e434"; // ←自分で作った環境
+
+		ListCollectionsOptions listOptions = new ListCollectionsOptions.Builder(environmentId).build();
+		ListCollectionsResponse listResponse = discovery.listCollections(listOptions).execute().getResult();
 
 		System.err.println(listResponse);
+
 	}
 
 }
